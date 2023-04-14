@@ -1,10 +1,10 @@
 # Hello there, we are NetGlade 🚀
 
-<a href="https://github.com/netglade">
+<a href="https://netglade.com/en">
   <picture >
-    <source media="(prefers-color-scheme: dark)" height='100px' srcset="https://raw.githubusercontent.com/netglade/.github/main/assets/netglade_logo_light.png">
-    <source media="(prefers-color-scheme: light)" height='100px' srcset="https://raw.githubusercontent.com/netglade/.github/main/assets/netglade_logo_dark.png">
-    <img alt="netglade" height='100px' src="https://raw.githubusercontent.com/netglade/.github/main/assets/netglade_logo_dark.png">
+    <source media="(prefers-color-scheme: dark)" height='80px' srcset="https://raw.githubusercontent.com/netglade/.github/main/assets/netglade_logo_light.png">
+    <source media="(prefers-color-scheme: light)" height='80px' srcset="https://raw.githubusercontent.com/netglade/.github/main/assets/netglade_logo_dark.png">
+    <img alt="netglade" height='80px' src="https://raw.githubusercontent.com/netglade/.github/main/assets/netglade_logo_dark.png">
   </picture>
 </a>
 
