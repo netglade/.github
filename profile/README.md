@@ -2,9 +2,9 @@
 
 <a href="https://github.com/netglade">
   <picture >
-    <source media="(prefers-color-scheme: dark)" height='120px' srcset="https://raw.githubusercontent.com/netglade/.github/main/assets/netglade_logo_light.png">
-    <source media="(prefers-color-scheme: light)" height='120px' srcset="https://raw.githubusercontent.com/netglade/.github/main/assets/netglade_logo_dark.png">
-    <img alt="netglade" height='120px' src="https://raw.githubusercontent.com/netglade/.github/main/assets/netglade_logo_dark.png">
+    <source media="(prefers-color-scheme: dark)" height='100px' srcset="https://raw.githubusercontent.com/netglade/.github/main/assets/netglade_logo_light.png">
+    <source media="(prefers-color-scheme: light)" height='100px' srcset="https://raw.githubusercontent.com/netglade/.github/main/assets/netglade_logo_dark.png">
+    <img alt="netglade" height='100px' src="https://raw.githubusercontent.com/netglade/.github/main/assets/netglade_logo_dark.png">
   </picture>
 </a>
 
