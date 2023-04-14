@@ -14,6 +14,8 @@
 - 📱 [Sliver App Bar Builder][package_sliver_app_bar_builder]: A truly customizable sliver for app bars with the benefit of using builders.
 - ✅ [NetGlade Analysis][package_netglade_analysis]: Lint rules for Dart and Flutter used internally at netglade.
 
+Join us on Discord to discuss them anytime! [![Discord][discord_badge]][discord_badge_link]
+
 ## 📚 Read [our blog][blog_link]
 
 - [Automate object mapping in Dart with auto_mappr](https://www.netglade.com/en/blog/object-mapping-dart-flutter)
@@ -35,3 +37,6 @@
 [package_auto_mappr]: https://github.com/netglade/auto_mappr
 [package_netglade_analysis]: https://github.com/netglade/netglade_analysis
 [package_sliver_app_bar_builder]: https://github.com/netglade/sliver_app_bar_builder
+
+[discord_badge]: https://img.shields.io/discord/1091460081054400532.svg?logo=discord&color=blue
+[discord_badge_link]: https://discord.gg/sJfBBuDZy4
