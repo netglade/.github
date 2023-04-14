@@ -11,7 +11,6 @@
 ## 🚀 Try [our tools][pub_link]
 
 - 🐙 [AutoMappr][package_auto_mappr]: Code generation for mapping between different objects with ease.
-
 - 📱 [Sliver App Bar Builder][package_sliver_app_bar_builder]: A truly customizable sliver for app bars with the benefit of using builders.
 - ✅ [NetGlade Analysis][package_netglade_analysis]: Lint rules for Dart and Flutter used internally at netglade.
 
@@ -33,6 +32,6 @@
 [blog_link]: https://netglade.com/en/blog
 [pub_link]: https://pub.dev/publishers/netglade.cz/packages
 
-[package_auto_mappr]: https://pub.dev/packages/auto_mappr
-[package_netglade_analysis]: https://pub.dev/packages/netglade_analysis
-[package_sliver_app_bar_builder]: https://pub.dev/packages/sliver_app_bar_builder
+[package_auto_mappr]: https://github.com/netglade/auto_mappr
+[package_netglade_analysis]: https://github.com/netglade/netglade_analysis
+[package_sliver_app_bar_builder]: https://github.com/netglade/sliver_app_bar_builder
