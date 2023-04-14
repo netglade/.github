@@ -1,4 +1,4 @@
-# Hello there, we are NetGlade 🚀
+# Hello there, we are netglade 🚀
 
 <a href="https://netglade.com/en">
   <picture >
@@ -7,6 +7,8 @@
     <img alt="netglade" height='80px' src="https://raw.githubusercontent.com/netglade/.github/main/assets/netglade_logo_dark.png">
   </picture>
 </a>
+
+_<br/>We’re Prague-based developers brought together by a shared passion for tech and innovation. Our software ranges from __Flutter__ mobile apps to C# web apps, custom-made IoT solutions, and security integrations._
 
 ## 🚀 Try [our tools][pub_link]
 
