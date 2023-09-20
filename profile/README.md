@@ -20,6 +20,9 @@ Join us on Discord to discuss them anytime! [![Discord][discord_badge]][discord_
 
 ## 📚 Read [our blog][blog_link]
 
+- [Code generation in Flutter: analyzing](https://www.netglade.com/en/blog/code-generation-flutter-analyzing)
+- [Flutter tech insight into the Škola OnLine App](https://www.netglade.com/en/blog/flutter-tech-insight-skola-online-app)
+- [Hook into Flutter Hooks](https://www.netglade.com/en/blog/hook-into-flutter-hooks)
 - [Automate object mapping in Dart with auto_mappr](https://www.netglade.com/en/blog/object-mapping-dart-flutter)
 - [How to handle one-time UI events with Bloc in Flutter](https://www.netglade.com/en/blog/flutter-events-bloc-side-effect)
 - [Why we built our own sliver app bar builder](https://www.netglade.com/en/blog/sliver-app-bar-builder-for-flutter)
