@@ -15,6 +15,9 @@ _<br/>We’re Prague-based developers brought together by a shared passion for t
 - 🐙 [AutoMappr][package_auto_mappr]: Code generation for mapping between different objects with ease.
 - 📱 [Sliver App Bar Builder][package_sliver_app_bar_builder]: A truly customizable sliver for app bars with the benefit of using builders.
 - ✅ [NetGlade Analysis][package_netglade_analysis]: Lint rules for Dart and Flutter used internally at netglade.
+- 📝 [GladeForms][package_glade_forms]: A universal way to define form validators with support of translations.
+- 🦺 [SafeBloc][package_safe_bloc]: An extension to bloc state management library that manages unexpected exceptions.
+
 
 Join us on Discord to discuss them anytime! [![Discord][discord_badge]][discord_badge_link]
 
@@ -42,6 +45,8 @@ Join us on Discord to discuss them anytime! [![Discord][discord_badge]][discord_
 [package_auto_mappr]: https://github.com/netglade/auto_mappr
 [package_netglade_analysis]: https://github.com/netglade/netglade_analysis
 [package_sliver_app_bar_builder]: https://github.com/netglade/sliver_app_bar_builder
+[package_glade_forms]: https://github.com/netglade/glade_forms
+[package_safe_bloc]: https://github.com/netglade/safe_bloc
 
 [discord_badge]: https://img.shields.io/discord/1091460081054400532.svg?logo=discord&color=blue
 [discord_badge_link]: https://discord.gg/sJfBBuDZy4
