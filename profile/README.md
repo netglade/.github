@@ -17,7 +17,7 @@ _<br/>We’re Prague-based developers brought together by a shared passion for t
 - ✅ [NetGlade Analysis][package_netglade_analysis]: Lint rules for Dart and Flutter used internally at netglade.
 - 📝 [GladeForms][package_glade_forms]: A universal way to define form validators with support of translations.
 - 🦺 [SafeBloc][package_safe_bloc]: An extension to bloc state management library that manages unexpected exceptions.
-
+- 🖨️ [NotionPdf.app](https://notionpdf.app): Print Beautiful PDF Documents from Notion
 
 Join us on Discord to discuss them anytime! [![Discord][discord_badge]][discord_badge_link]
 
