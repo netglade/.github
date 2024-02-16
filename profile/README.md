@@ -42,8 +42,8 @@ Join us on Discord to discuss them anytime! [![Discord][discord_badge]][discord_
 [blog_link]: https://netglade.com/en/blog
 [pub_link]: https://pub.dev/publishers/netglade.cz/packages
 
+[package_auto_mappr]: https://github.com/netglade/auto_mappr
 [package_flutter_core]: https://github.com/netglade/flutter_core
-[package_netglade_analysis]: https://github.com/netglade/netglade_analysis
 [package_sliver_app_bar_builder]: https://github.com/netglade/sliver_app_bar_builder
 [package_glade_forms]: https://github.com/netglade/glade_forms
 [package_safe_bloc]: https://github.com/netglade/safe_bloc
