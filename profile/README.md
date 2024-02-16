@@ -16,7 +16,7 @@ _<br/>We’re Prague-based developers brought together by a shared passion for t
 - 📱 [Sliver App Bar Builder][package_sliver_app_bar_builder]: A truly customizable sliver for app bars with the benefit of using builders.
 - 📝 [GladeForms][package_glade_forms]: A universal way to define form validators with support of translations.
 - 🦺 [SafeBloc][package_safe_bloc]: An extension to bloc state management library that manages unexpected exceptions.
-- ✅ [Our Flutter core packages][package_flutter_core]: Our internal Dart and Flutter packages.
+- ✅ [Flutter core][package_flutter_core]: Our internal Dart and Flutter packages.
 - 🖨️ [NotionPDF.app](https://notionpdf.app): Print Beautiful PDF Documents from Notion
 
 Join us on Discord to discuss them anytime! [![Discord][discord_badge]][discord_badge_link]
